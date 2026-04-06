@@ -1,0 +1,8 @@
+{
+  "name": "Moor2Build - Mastery in Markets & Tech",
+  "description": "A premium informational platform for elite courses in trading, AI architecture, digital marketing, and the nomad lifestyle.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
