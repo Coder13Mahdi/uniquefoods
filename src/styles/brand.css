@@ -1,0 +1,16 @@
+:root {
+  --brand-orange-light: #ffb86c;
+  --brand-orange: #ff7f50;
+  --brand-orange-deep: #ff5a1f;
+
+  --brand-purple-light: #b57bff;
+  --brand-purple: #7a3cff;
+  --brand-purple-deep: #4b1fa3;
+
+  --brand-bg: #1a0f1f;
+  --brand-text: #ffffff;
+
+  --glow-orange: 0 0 20px rgba(255, 150, 80, 0.8);
+  --glow-purple: 0 0 20px rgba(150, 80, 255, 0.8);
+}
+
